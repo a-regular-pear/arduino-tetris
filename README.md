@@ -14,8 +14,9 @@ A port of the popular videogame Tetris on an arduino Uno
 
 - 4 - Push buttons
 
-### A simple schematic of the project
+### Schematics of the project
 ![A schematic of the project](/schematic/schematic.png)
+![A schematic of the project using fritzing](/schematic/fritzing.png)
 
 ## Software needed
 The project relies on
